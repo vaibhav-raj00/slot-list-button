@@ -4,7 +4,7 @@
 // @version      2.2
 // @description  Show only "Send to Discord" button and send slot list to a Discord bot server API (hosted e.g. on Render). No data is shown on the webpage.
 // @author       Vaibhav Raj
-// @match        *https://og.battlexo.com/playoff/tournaments*
+// @match        https://og.battlexo.com/playoff/tournaments*
 // @grant        none
 // ==/UserScript==
 
